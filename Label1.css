@@ -440,7 +440,7 @@
       margin: 0 !important;
     }
     .info1 {
-      margin-top: 140px !important;
+      margin-top: 125px !important;
     }
     .info2 {
       margin-top: 15px !important;
@@ -453,7 +453,8 @@
       font-size: 1.25rem !important;
     }
     .name1 {
-      margin: -224px 61px 0 auto !important;
+      margin: -48px 61px 0 auto !important;
+      font-size: 1.25rem !important;
     }
     .dev1 {
       margin-top:20px !important;
@@ -467,3 +468,12 @@
       color: red !important;
     }
 */
+
+@media only screen and (max-width: 1300px) {
+  .info2 {
+    margin: 10px auto 60px 350px !important;
+  }
+  .name1 {
+    margin: -42px 61px 0 auto !important;
+  }
+}
