@@ -490,6 +490,9 @@
     margin-top: -42px !important;
   }
   .imgs {
-    padding: 25px !important;
+    padding: 30px !important;
+  }
+  .example1 {
+    grid-gap: 0px 17px !important;
   }
 }
