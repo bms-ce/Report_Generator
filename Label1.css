@@ -479,14 +479,11 @@
 }
 
 @media only screen and (max-width: 449px) {
-}
-
-@media (max-width: 575px) {
   .info2 {
     margin-top: 10px !important;
   }
   .info1 {
-    margin-top: -1100px !important;
+    /*margin-top: -1100px !important;*/
     margin-left: auto;
   }
   .name1 {
